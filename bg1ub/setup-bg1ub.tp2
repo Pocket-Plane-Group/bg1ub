@@ -321,7 +321,7 @@ LANGUAGE ~Polish~ // Bartek
 
 LANGUAGE ~Simplified Chinese~
 	 ~schinese~
-	 ~bg1ub/tra/schinese/setup.tra~
+	 ~bg1ub/tra/schinese/setup-%WEIDU_OS%.tra~
      ~bg1ub/tra/schinese/bg1ub.tra~
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\

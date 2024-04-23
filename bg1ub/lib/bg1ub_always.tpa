@@ -32,7 +32,7 @@
   LOAD_TRA "bg1ub/tra/%LANGUAGE%/bg1ub.tra"
 
   // INCLUDE ~%MOD_FOLDER%/handle_charsets.tpa~
-  ACTION_DEFINE_ARRAY ub#noconvert BEGIN setup END
+  ACTION_DEFINE_ARRAY ub#noconvert BEGIN setup setup-osx setup-unix setup-win32 END
   ACTION_DEFINE_ARRAY ub#reload BEGIN bg1ub END
 
 /*  ACTION_DEFINE_ASSOCIATIVE_ARRAY ub#charsets BEGIN
