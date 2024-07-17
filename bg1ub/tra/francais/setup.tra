@@ -13,11 +13,11 @@
 @90015 = ~Les fonctionnalites de ce composant sont deja incluses ou supplantees par un des mods que vous avez deja installes.~
 @90016 = ~Les fonctionnalites de ce composant sont deja incluses dans BGEE.~
 @90017 = ~Installation de BGEE detectee.~
-@90018 = ~La fusion DLC est nécessaire avant que des mods puissent être installés sur ce jeu. Consultez le fichier Lisez-moi pour plus d'informations et un lien pour télécharger DLC Merger.~
+@90018 = ~La fusion DLC est né–essaire avant que des mods puissent é˜¾re installé–Ÿ sur ce jeu. Consultez le fichier Lisez-moi pour plus d'informations et un lien pour té–˜é–harger DLC Merger.~
 @90019 = ~Les fonctionnalites de ce composant sont deja incluses dans BGEE + BGT.~
 
 // Remarques
-// J'ai retiré les accents des textes qui correspondent aux différents composants pour préserver l'affichage dans la fenêtre WeiDU
+// J'ai retir?les accents des textes qui correspondent aux diffé–ents composants pour pré–Ÿerver l'affichage dans la fené˜¾re WeiDU
 @0    = ~Restitution du deuxieme niveau de l'Ile de Glace~
 @1    = ~L'extension Tales of the Sword Coast est requise pour installer ce composant.~
 @2    = ~La fiole mysterieuse~

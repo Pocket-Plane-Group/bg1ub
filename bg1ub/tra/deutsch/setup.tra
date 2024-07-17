@@ -11,10 +11,10 @@
 @90013 = ~Bitte installiert zuvor BG1, BGT, Tutu oder BGEE.~
 @90014 = ~Bitte installiert zuvor BGT oder Tutu.~
 
-@90015 = ~Gleiche Inhalte wie in dieser Komponente sind entweder schon vorhanden oder werden durch eine bereits installierte Mod eingefügt.~
+@90015 = ~Gleiche Inhalte wie in dieser Komponente sind entweder schon vorhanden oder werden durch eine bereits installierte Mod eingefé»¦t.~
 @90016 = ~Gleiche Inhalte wie in dieser Komponente sind in BGEE bereits enthalten.~
 @90017 = ~BGEE-Installation erkannt.~
-@90018 = ~DLC Merger ist erforderlich, bevor Mods in diesem Spiel installiert werden können. Lesen Sie die Readme-Datei für weitere Informationen und einen Link zum Herunterladen von DLC Merger.~
+@90018 = ~DLC Merger ist erforderlich, bevor Mods in diesem Spiel installiert werden ké°Šnen. Lesen Sie die Readme-Datei fé»µ weitere Informationen und einen Link zum Herunterladen von DLC Merger.~
 @90019 = ~Gleiche Inhalte wie in dieser Komponente sind in BGEE und BGT bereits enthalten.~
 
 
@@ -52,7 +52,7 @@
 /* new v13.1 */
 // tp2 strings
 @116 = ~Prism und die Smaragde~
-@219   = ~Fürst Eltan im Haus des Hafenmeisters~
+@219   = ~Fé»µst Eltan im Haus des Hafenmeisters~
 
 /* new v14 */
 @4000 = ~Nim Furlwing Begegnung~
