@@ -1,23 +1,23 @@
 //DOS prompts - use DOS encoding
 @90000 = ~El componente de BG1 NPC Project "BG1 NPC Project: Parte II (Busquedas e interacciones)" causa un conflicto con este componente.~
-@90001 = ~El componente de BG1 NPC Project "BG1 NPC Project: Instalación de nucleo" causa un conflicto con este componente.~
+@90001 = ~El componente de BG1 NPC Project "BG1 NPC Project: Instalacié«‡ de nucleo" causa un conflicto con este componente.~
 @90002 = ~El componente de BG1 NPC Project "BG1 NPC Project: Parte I (conversaciones)" causa un conflicto con este componente.~
 @90003 = ~Northern Tales of the Sword Coast causa un conflicto con este componente.~
 @90004 = ~Jarl's Adventure Pack causa un conflicto con este componente.~
 
-@90010 = ~Instalación Tutu detectada.~
-@90011 = ~Instalación BGT detectada.~
-@90012 = ~Instalación BG detectada.~
+@90010 = ~Instalacié«‡ Tutu detectada.~
+@90011 = ~Instalacié«‡ BGT detectada.~
+@90012 = ~Instalacié«‡ BG detectada.~
 @90013 = ~Por favor, instalar sobre BG, BGT, Tutu o BGEE.~
 @90014 = ~Por favor, instalar sobre BGT o Tutu.~
 
-@90015 = ~La funcionalidad de este componente ya está incluida o reemplazada por uno de los mods que ya tienes instalados.~
-@90016 = ~La funcionalidad de este componente ya está incluida en BGEE.~
-@90017 = ~Instalación BGEE detectada.~
-@90018 = ~Se requiere Fusión de DLC antes de que se puedan instalar mods en este juego. Consulte el archivo léame para obtener más información y un enlace para descargar DLC Merger.~
-@90019 = ~La funcionalidad de este componente ya está incluida en BGEE + BGT.~
+@90015 = ~La funcionalidad de este componente ya est?incluida o reemplazada por uno de los mods que ya tienes instalados.~
+@90016 = ~La funcionalidad de este componente ya est?incluida en BGEE.~
+@90017 = ~Instalacié«‡ BGEE detectada.~
+@90018 = ~Se requiere Fusié«‡ de DLC antes de que se puedan instalar mods en este juego. Consulte el archivo lé–me para obtener mé†© informacié«‡ y un enlace para descargar DLC Merger.~
+@90019 = ~La funcionalidad de este componente ya est?incluida en BGEE + BGT.~
 
-@0   = ~Restauración del nivel 2 de la Isla de Hielo~
+@0   = ~Restauracié«‡ del nivel 2 de la Isla de Hielo~
 @1   = ~Este componente requiere la expansion Tales of the Sword Coast~
 
 @2   = ~El Recipiente Misterioso~
@@ -34,7 +34,7 @@
 @17  = ~Quoningar, el Clerigo~
 @18  = ~Shilo Chen y los Ogro magos~
 @21  = ~Edie, el Estudiante a Mercader de la Liga~
-@22  = ~Refuerzos Mercenarios del Puño Llameante~
+@22  = ~Refuerzos Mercenarios del Pué§‰ Llameante~
 @23  = ~Correcciones a Criaturas~
 @24  = ~Restauracion a Criaturas~
 @26  = ~Nombres de Criaturas Restaurados~
@@ -44,19 +44,19 @@
 @94  = ~Correcciones y Restauraciones de Objetos~
 @100 = ~Correcciones y Restauraciones de Areas~
 @101 = ~Cadaveres Permanentes~
-@102 = ~Hechizado Elfico e Inmunidad Racial al Sueño~
+@102 = ~Hechizado Elfico e Inmunidad Racial al Sueé§‰~
 @103 = ~Correcciones a la Lista de Musica de la Saga Original~
 @104 = ~Correcciones del Diario de Sarevok~
 
 /* new v13.1 */
 // tp2 strings
 @116 = ~Mejora a Prism y las esmeraldas~
-@219 = ~Duque Eltan en el Edificio del capitán del puerto~
+@219 = ~Duque Eltan en el Edificio del capité†¤ del puerto~
 
 /* new v14 */
 @4000 = ~Encuentro de Nim Alasplegadas~
-@4100 = ~Película de la Taberna Canción Élfica restaurada~
-@4101 = ~Este componente no es compatible con BGEE. Se incluye una versión compatible con BGEE de esta película con el mod BG:EE Classic Movies.~
-@4200 = ~Svlast, el encuentro con el paladín caído~
+@4100 = ~PeléŸˆula de la Taberna Cancié«‡ è’·fica restaurada~
+@4101 = ~Este componente no es compatible con BGEE. Se incluye una versié«‡ compatible con BGEE de esta peléŸˆula con el mod BG:EE Classic Movies.~
+@4200 = ~Svlast, el encuentro con el paladéŸ“ caéŸ‰o~
 @4300 = ~Mal-Kalen, el fantasma de Ulcaster~
-@4400 = ~Restauraciones de diálogo del Capítulo 6~
+@4400 = ~Restauraciones de dié† ogo del CapéŸ™ulo 6~

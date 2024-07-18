@@ -1,24 +1,24 @@
 /* ITALIAN */
-@90000 = ~La componente "Fase II (Missioni e Interazioni)" del mod BG1 NPC Project non è compatibile con questa componente.~
-@90001 = ~La componente "Installazione di base" del mod BG1 NPC Project non è compatibile con questa componente.~
-@90002 = ~La componente "Fase I (Dialoghi)" del mod BG1 NPC Project non è compatibile con questa componente.~
-@90003 = ~Northern Tales of the Sword Coast non è compatibile con questa componente.~
-@90004 = ~Questa componente non è compatibile con Jarl's Adventure Pack.~
+@90000 = ~La componente "Fase II (Missioni e Interazioni)" del mod BG1 NPC Project non ?compatibile con questa componente.~
+@90001 = ~La componente "Installazione di base" del mod BG1 NPC Project non ?compatibile con questa componente.~
+@90002 = ~La componente "Fase I (Dialoghi)" del mod BG1 NPC Project non ?compatibile con questa componente.~
+@90003 = ~Northern Tales of the Sword Coast non ?compatibile con questa componente.~
+@90004 = ~Questa componente non ?compatibile con Jarl's Adventure Pack.~
 
 @90010 = ~Rilevato Tutu.~
 @90011 = ~Rilevato BGT.~
 @90012 = ~Rilevato BG.~
 @90013 = ~Per favore, installa su BG, BGT, Tutu o BGEE.~
 @90014 = ~Per favore, installa su BGT o Tutu.~
-@90015 = ~Questa componente o la funzione che svolge è già presente tra le modifiche precedentemente installate.~
-@90016 = ~Questa componente o la funzione che svolge è già presente in BGEE.~
+@90015 = ~Questa componente o la funzione che svolge ?gi?presente tra le modifiche precedentemente installate.~
+@90016 = ~Questa componente o la funzione che svolge ?gi?presente in BGEE.~
 @90017 = ~Rilevato BGEE.~
 @90018 = ~E' richiesto DLC Merger affinche' possano essere installate le mod. Consulta il file Readme per maggiori informazioni e per il link da cui scaricare DLC Merger.~
-@90019 = ~Questa componente o la funzione che svolge è già presente in BGEE + BGT.~
+@90019 = ~Questa componente o la funzione che svolge ?gi?presente in BGEE + BGT.~
 
 
 @0    = ~Ripristina il Secondo Livello dell'Isola di Ghiaccio~
-@1    = ~L'espansione Tales of the Sword Coast è richiesta per installare questa componente.~
+@1    = ~L'espansione Tales of the Sword Coast ?richiesta per installare questa componente.~
 @2    = ~La Fiala Misteriosa~
 @3    = ~Incontro Aggiuntivo con Elminster~
 @4    = ~Angelo Riconosce Shar-teel~
@@ -44,7 +44,7 @@
 @94   = ~Correzioni e Ripristino di Oggetti~
 @100  = ~Correzioni alle Aree e Ripristino di Aree Aggiuntive~
 @101  = ~Cadaveri Permanenti~
-@102  = ~Immunità Razziali degli Elfi agli Effetti di Sonno e Charme~
+@102  = ~Immunit?Razziali degli Elfi agli Effetti di Sonno e Charme~
 @103  = ~Correzioni alla Playlist delle Tracce Musicali della Saga~
 @104  = ~Correzioni al Diario di Sarevok~
 
@@ -56,7 +56,7 @@
 /* new v14 */
 @4000 = ~Incontro con Nim Furlwing~
 @4100 = ~Ripristina il Filmato della Taverna del Canto Elfico~
-@4101 = ~Questa componente non è compatibile con BGEE. Una versione compatibile con BGEE di questo filmato è inclusa nel mod BG:EE Classic Movies.~
+@4101 = ~Questa componente non ?compatibile con BGEE. Una versione compatibile con BGEE di questo filmato ?inclusa nel mod BG:EE Classic Movies.~
 @4200 = ~Svlast, il Paladino Decaduto~
 @4300 = ~Mal-Kalen, un Fantasma nelle Rovine di Ulcaster~
 @4400 = ~Ripristina Dialoghi Capitolo 6~
