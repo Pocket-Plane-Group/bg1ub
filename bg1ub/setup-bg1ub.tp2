@@ -319,6 +319,11 @@ LANGUAGE ~Polish~ // Bartek
 	 ~bg1ub/tra/polish/setup.tra~
      ~bg1ub/tra/polish/bg1ub.tra~
 
+LANGUAGE ~Simplified Chinese~ //Lzw104522773, yoshimo0417, MephistoSatanDevil
+	 ~schinese~
+	 ~bg1ub/tra/schinese/setup.tra~
+     ~bg1ub/tra/schinese/bg1ub.tra~
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\
